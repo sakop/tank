@@ -7,7 +7,7 @@ public class UIDirectionControl : MonoBehaviour
 
     private Quaternion m_RelativeRotation;     
 
-
+	//test
     private void Start()
     {
         m_RelativeRotation = transform.parent.localRotation;
